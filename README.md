@@ -28,7 +28,8 @@ print("Swapped values are:",num1,num2)
 
 ## OUTPUT
 
-![OUTPUT](./images/swap.png)
+![swapping](https://user-images.githubusercontent.com/118447015/209438005-7d66f688-ea7d-4f6b-b14f-c81232f9d80c.png)
+
 
 
 ## RESULT:
